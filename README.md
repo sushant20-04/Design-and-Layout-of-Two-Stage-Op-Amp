@@ -17,7 +17,7 @@ Detailed schematics, layout views, simulation plots, and verification results ar
 | Technology | SCL 180 nm CMOS |
 | Supply Voltage | 1.8 V |
 | Supply Sources | Single VDD source |
-| Minimum Overdrive Voltage | \(V_{OV}\ > 150\,mV\) |
+| Minimum Overdrive Voltage | \(V\_{OV}\ > 150\,mV\) |
 | EDA Tool | Cadence Virtuoso |
 | PDK | SCL 180 nm |
 
@@ -44,7 +44,7 @@ The complete schematic and circuit implementation are documented in the attached
 
 The transistor dimensions and operating currents were selected to satisfy the required biasing and performance constraints while maintaining the specified minimum overdrive voltage.
 
-| Device | Type | W (µm) | L (µm) | \(I_D\) (µA) |
+| Device | Type | W (µm) | L (µm) | \(I\_D\) (µA) |
 | --- | --- | ---: | ---: | ---: |
 | Input Pair | NMOS | 16 | 1 | 10 |
 | P Mirror | PMOS | 8 | 1 | 10 |
