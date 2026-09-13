@@ -17,7 +17,7 @@ Detailed schematics, layout views, simulation plots, and verification results ar
 | Technology | SCL 180 nm CMOS |
 | Supply Voltage | 1.8 V |
 | Supply Sources | Single VDD source |
-| Minimum Overdrive Voltage | \(V_{OV} > 150\,mV\) |
+| Minimum Overdrive Voltage | \(V_{OV}\ > 150\,mV\) |
 | EDA Tool | Cadence Virtuoso |
 | PDK | SCL 180 nm |
 
@@ -199,11 +199,11 @@ Pre-Layout Simulation
      ↓
 Physical Layout
      ↓
-DRC
+    DRC
      ↓
-LVS
+    LVS
      ↓
-PEX
+    PEX
      ↓
 Post-Layout Simulation
      ↓
