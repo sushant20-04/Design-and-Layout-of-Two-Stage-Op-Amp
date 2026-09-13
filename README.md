@@ -17,7 +17,7 @@ Detailed schematics, layout views, simulation plots, and verification results ar
 | Technology | SCL 180 nm CMOS |
 | Supply Voltage | 1.8 V |
 | Supply Sources | Single VDD source | 
-| Minimum Overdrive Voltage | \(V<sub>OV</sub> > 150\,mV\) |
+| Minimum Overdrive Voltage | \(V<sub>OV</sub> > 150\mV\) |
 | EDA Tool | Cadence Virtuoso |
 | PDK | SCL 180 nm |
 
@@ -61,9 +61,9 @@ The compensation and load components were selected to achieve the desired freque
 
 | Component | Description | Value |
 | --- | --- | ---: |
-| \(C_C\) | Miller Compensation Capacitor | 464 fF |
-| \(R_Z\) | Nulling Resistor | 7.7 kΩ |
-| \(C_L\) | Load Capacitor | 1 pF |
+| C<sub>C</sub> | Miller Compensation Capacitor | 464 fF |
+| R<sub>Z</sub> | Nulling Resistor | 7.7 kΩ |
+| C<sub>L</sub> | Load Capacitor | 1 pF |
 
 ---
 
