@@ -44,7 +44,7 @@ The complete schematic and circuit implementation are documented in the attached
 
 The transistor dimensions and operating currents were selected to satisfy the required biasing and performance constraints while maintaining the specified minimum overdrive voltage.
 
-| Device | Type | W (µm) | L (µm) | \(I\_D\) (µA) |
+| Device | Type | W (µm) | L (µm) | I<sub>D</sub> (µA) |
 | --- | --- | ---: | ---: | ---: |
 | Input Pair | NMOS | 16 | 1 | 10 |
 | P Mirror | PMOS | 8 | 1 | 10 |
