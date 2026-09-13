@@ -35,8 +35,7 @@ Miller compensation is implemented using a compensation capacitor and a nulling 
 > **TODO: Add two-stage op-amp schematic here.**
 
 ```text
-![Two-Stage Op-Amp Schematic](images/opamp_schematic.png)
-```
+<img width="1347" height="633" alt="T2_Sch" src="https://github.com/user-attachments/assets/ba97d42a-0e92-4b93-87e3-341981e59d11" />```
 
 ---
 
